@@ -53,7 +53,7 @@ export default function Home() {
         {/* Glow Effects */}
         <div className="absolute top-1/4 left-1/2 -z-10 h-[400px] w-[600px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-indigo-500/10 blur-[100px]" />
         <div className="absolute top-1/3 left-1/3 -z-10 h-[300px] w-[500px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-purple-500/10 blur-[100px]" />
-        
+
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center sm:text-left">
           <div className="inline-flex items-center gap-2 rounded-full border border-indigo-500/30 bg-indigo-500/10 px-3 py-1 text-sm text-indigo-300 mb-6">
             <span className="flex h-2 w-2 rounded-full bg-green-400 animate-pulse" />
@@ -214,7 +214,7 @@ export default function Home() {
             <div className="lg:col-span-5 space-y-6">
               <div className="bg-slate-900/50 border border-white/5 rounded-2xl p-6">
                 <h3 className="text-xl font-bold text-white mb-6">Contact Information</h3>
-                
+
                 <div className="space-y-4">
                   <div className="flex items-start gap-4">
                     <div className="mt-1 flex-shrink-0 text-indigo-400">
